@@ -34,25 +34,5 @@ You can also provide a video file and Python will read in the video file. Howeve
 ~~~~
 
 
-## Test Results:
-
-I have tested the above program on both **Linux** and **Windows** Operating systems and have recieved positive results using my stock webcam on
-Hewlett Packard 64bit system.
-
-### Successful Test
-<img src ="test_images/t1.JPG" />
-
-### Test case 2
-<img src ="test_images/t2.JPG" />
-
-
-## Upcoming Push:
-
-Wanna contribute to the more advanced version 2.0 of this mini project :
-
-The upcoming project will be Faces recognition example using eigenfaces and SVMs:
-
-Take a glance : [here](http://scikit-learn.sourceforge.net/0.6/auto_examples/applications/plot_face_recognition.html)
-
 
 
