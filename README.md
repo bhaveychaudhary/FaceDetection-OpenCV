@@ -1,8 +1,4 @@
 # OpenCV-miniProject-FaceDetection
-## Webcam Face Recognition Program
-[![Travis branch](https://img.shields.io/travis/rust-lang/rust/master.svg)]()
-
-Webcam Face Detection Program built in **python**.
 
 ## Pre-Requisites:
 1. OpenCV installed
